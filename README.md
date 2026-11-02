@@ -1,3 +1,3 @@
 ﻿# VexV5_26-27
 
-Vex 2026-2027 "Override" season's robot codebase
+Team B's codebase for Vex V5 robot for 26-27 "Override" season
